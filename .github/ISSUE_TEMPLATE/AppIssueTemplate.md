@@ -22,6 +22,6 @@ Screens seem to display the App fine for a fire stick and MacPlayer but on the S
 
 ## Screenshot/Videos
 
-https://www.dropbox.com/s/hk7kjcvwprqom63/Screenshot%202019-10-07%20at%2011.03.43.png?dl=0
+
 
 
